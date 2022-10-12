@@ -1,0 +1,11 @@
+﻿  Head.cpp
+  HeaderHead.h
+  MT.cpp
+D:\PPOIS\Lib1\StaticLib\StaticLib\MT.cpp(51,7): warning C4101: 'a': unreferenced local variable
+  Rule.cpp
+  RuleSet.cpp
+D:\PPOIS\Lib1\StaticLib\StaticLib\RuleSet.cpp(83,20): warning C4018: '<': signed/unsigned mismatch
+  Tape.cpp
+  Generating Code...
+D:\PPOIS\Lib1\StaticLib\StaticLib\RuleSet.cpp(90): warning C4715: 'RuleSet::SearchRule': not all control paths return a value
+  StaticLib.vcxproj -> D:\PPOIS\Lib1\StaticLib\Debug\StaticLib.lib
