@@ -1,0 +1,7 @@
+﻿  main.cpp
+StaticLib.lib(Head.obj) : warning LNK4099: PDB 'StaticLib.pdb' was not found with 'StaticLib.lib(Head.obj)' or at 'D:\PPOIS\Lib1\StaticLib\Debug\StaticLib.pdb'; linking object as if no debug info
+StaticLib.lib(MT.obj) : warning LNK4099: PDB 'StaticLib.pdb' was not found with 'StaticLib.lib(MT.obj)' or at 'D:\PPOIS\Lib1\StaticLib\Debug\StaticLib.pdb'; linking object as if no debug info
+StaticLib.lib(Rule.obj) : warning LNK4099: PDB '' was not found with 'StaticLib.lib(Rule.obj)' or at ''; linking object as if no debug info
+StaticLib.lib(RuleSet.obj) : warning LNK4099: PDB 'StaticLib.pdb' was not found with 'StaticLib.lib(RuleSet.obj)' or at 'D:\PPOIS\Lib1\StaticLib\Debug\StaticLib.pdb'; linking object as if no debug info
+StaticLib.lib(Tape.obj) : warning LNK4099: PDB 'StaticLib.pdb' was not found with 'StaticLib.lib(Tape.obj)' or at 'D:\PPOIS\Lib1\StaticLib\Debug\StaticLib.pdb'; linking object as if no debug info
+  Test.vcxproj -> D:\PPOIS\Lib1\StaticLib\Debug\Test.exe
